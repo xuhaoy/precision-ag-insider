@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+title: Precision Ag Insider
+description: The AI Farming Revolution
+show_downloads: false
+google_analytics: 
+# Hide the "View on GitHub" button
+github:
+  is_project_page: false
+
+# GoatCounter Analytics
+footer: '<script data-goatcounter="https://precisionaginsider.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
