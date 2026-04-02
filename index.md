@@ -59,3 +59,9 @@ Welcome to the cutting edge of agriculture. We explore how AI, robotics, and sen
 
 ### [Agentic Planning: Solving the 'Crisis of Confidence' in 2026 Farming](/precision-ag-insider/posts/agentic-planning-2026)
 #### Summary: The agricultural sector faces a growing confidence crisis. This article explores how agentic planning, powered by AI and data analytics, can help farmers make more informed decisions.
+
+---
+© 2026 Precision Ag Insider. All rights reserved.
+
+<script data-goatcounter="https://precisionaginsider.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
