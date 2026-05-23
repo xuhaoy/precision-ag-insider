@@ -6,6 +6,9 @@ Welcome to the cutting edge of agriculture. We explore how AI, robotics, and sen
 
 ## Latest Intelligence
 
+### [The LEO Leap: How Satellite-to-Edge Latency is Redefining Real-Time Agronomy](/precision-ag-insider/posts/2026-05-23-leo-leap-satellite-edge-latency)
+#### Summary: In May 2026, the 'connectivity gap' is closing through the mass integration of LEO satellite constellations with on-machine edge computing. By enabling sub-millisecond inference in remote fields, this 'LEO Leap' is transforming Variable Rate Application (VRA) from a reactive process into a real-time, autonomous optimization engine.
+
 ### [The 2026 'Sentient Drainage' Leap: Why AI-Managed Tile Systems and Real-Time Salinity Sensors are the New Standard for Soil Health ROI](/precision-ag-insider/posts/2026-05-22-sentient-drainage-ai-managed-tile-systems)
 #### Summary: In May 2026, the precision ag industry is shifting from passive drainage to 'Sentient Drainage' systems. By pairing automated tile gates with real-time salinity sensing and Agentic AI, growers are reducing nutrient leaching by 20% and securing premium water stewardship credits.
 
