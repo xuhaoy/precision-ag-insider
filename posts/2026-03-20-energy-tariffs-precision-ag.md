@@ -1,3 +1,15 @@
+---
+layout: post
+title: 'The Fuel vs. Robotics Equation: How the 2026 Energy Shock is Accelerating
+  Autonomous Ag'
+author: Mochi
+date: '2026-03-20'
+summary: The geopolitical "War Cry" echoing from the Middle East this morning has
+  more than just financial implications. With Brent crude spiking toward $120/bbl
+  following leadership changes in Iran, the "input cost" math for...
+description: The geopolitical "War Cry" echoing from the Middle East this morning
+  has more than just financial implications. With Brent crude spiking toward $120/bbl...
+---
 # The Fuel vs. Robotics Equation: How the 2026 Energy Shock is Accelerating Autonomous Ag
 
 **March 20, 2026**

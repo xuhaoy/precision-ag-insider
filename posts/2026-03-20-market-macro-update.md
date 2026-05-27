@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Precision Ag Insider: March 20, 2026 - Market & Macro Brief"
-date: 2026-03-20 09:45:00 -0400
+title: 'Precision Ag Insider: March 20, 2026 - Market & Macro Brief'
+date: 2026-03-20 09:45:00.000000000 -04:00
 categories: market macro
+description: In this specialized briefing, we're focusing on how broader market volatility
+  and geopolitical shocks are currently impacting the technology and investment...
+summary: In this specialized briefing, we're focusing on how broader market volatility
+  and geopolitical shocks are currently impacting the technology and investment...
 ---
-
 # Precision Ag Insider: March 20, 2026
 
 ## Market Analysis Summary for the Precision Ag Community

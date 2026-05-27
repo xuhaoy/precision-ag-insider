@@ -1,11 +1,25 @@
 theme: jekyll-theme-cayman
 title: Precision Ag Insider
-description: The AI Farming Revolution
+description: AI farming, precision agriculture, farm robotics, sensors, autonomy, and agtech ROI analysis for forward-looking growers.
+url: "https://xuhaoy.github.io"
+baseurl: "/precision-ag-insider"
 show_downloads: false
 google_analytics: 
 # Hide the "View on GitHub" button
 github:
   is_project_page: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: "posts"
+      type: "pages"
+    values:
+      layout: post
+      author: "Mochi"
 
 # GoatCounter Analytics
 footer: '<script data-goatcounter="https://precisionaginsider.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'

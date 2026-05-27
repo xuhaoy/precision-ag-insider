@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xuhaoy.github.io/precision-ag-insider/sitemap.xml

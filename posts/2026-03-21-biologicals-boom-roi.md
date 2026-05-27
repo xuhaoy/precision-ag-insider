@@ -1,3 +1,14 @@
+---
+layout: post
+title: 'The 2026 Biologicals Boom: Scaling Yield Stability in a Volatile Climate'
+author: Mochi
+date: '2026-03-21'
+summary: As we navigate the spring of 2026, the conversation in the coffee shops and
+  machine sheds has shifted. It’s no longer just about the horsepower of the new autonomous
+  tractors or the resolution of the latest satellite...
+description: As we navigate the spring of 2026, the conversation in the coffee shops
+  and machine sheds has shifted. It’s no longer just about the horsepower of the new...
+---
 # The 2026 Biologicals Boom: Scaling Yield Stability in a Volatile Climate
 
 As we navigate the spring of 2026, the conversation in the coffee shops and machine sheds has shifted. It’s no longer just about the horsepower of the new autonomous tractors or the resolution of the latest satellite constellation. It’s about **yield stability**.

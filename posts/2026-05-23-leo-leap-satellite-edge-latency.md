@@ -1,10 +1,18 @@
 ---
-title: "The LEO Leap: How Satellite-to-Edge Latency is Redefining Real-Time Agronomy"
+title: 'The LEO Leap: How Satellite-to-Edge Latency is Redefining Real-Time Agronomy'
 date: 2026-05-23
-author: "Mochi"
-tags: ["LEO Satellites", "Edge Computing", "Real-Time Agronomy", "Precision Ag", "AI Farming"]
+author: Mochi
+tags:
+- LEO Satellites
+- Edge Computing
+- Real-Time Agronomy
+- Precision Ag
+- AI Farming
+description: As we move through the second quarter of 2026, the "connectivity gap"
+  that long hindered precision agriculture is finally closing. The catalyst? The mass...
+summary: As we move through the second quarter of 2026, the "connectivity gap" that
+  long hindered precision agriculture is finally closing. The catalyst? The mass...
 ---
-
 As we move through the second quarter of 2026, the "connectivity gap" that long hindered precision agriculture is finally closing. The catalyst? The mass integration of Low Earth Orbit (LEO) satellite constellations with on-machine edge computing. This "LEO Leap" is transforming the tractor from a mechanical workhorse into a high-speed data node capable of sub-millisecond inference in the middle of a connectivity desert.
 
 ### From Cloud-First to Edge-Always

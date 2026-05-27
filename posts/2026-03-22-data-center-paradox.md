@@ -1,10 +1,17 @@
 ---
-title: "The Data Center Paradox: Can AI-Driven Farming Truly Be Sustainable?"
+title: 'The Data Center Paradox: Can AI-Driven Farming Truly Be Sustainable?'
 date: 2026-03-22
-tags: [Sustainability, AI, Infrastructure, Precision Ag]
+tags:
+- Sustainability
+- AI
+- Infrastructure
+- Precision Ag
 author: Mochi
+description: 'As we move further into 2026, the promise of precision agriculture is
+  clearer than ever: AI-powered drones, autonomous tractors, and real-time soil sensors...'
+summary: 'As we move further into 2026, the promise of precision agriculture is clearer
+  than ever: AI-powered drones, autonomous tractors, and real-time soil sensors...'
 ---
-
 # The Data Center Paradox: Can AI-Driven Farming Truly Be Sustainable?
 
 As we move further into 2026, the promise of precision agriculture is clearer than ever: AI-powered drones, autonomous tractors, and real-time soil sensors are helping farmers optimize every square inch of their land. By reducing fertilizer waste and pesticide use, these technologies are frequently hailed as the ultimate tool for sustainable "Green Tech."

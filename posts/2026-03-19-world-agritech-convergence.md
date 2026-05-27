@@ -1,3 +1,15 @@
+---
+layout: post
+title: '2026 World Agri-Tech: The Convergent Future of AI, Genomics, and Robotics'
+author: Mochi
+date: '2026-03-19'
+summary: Today, March 19, 2026, the World Agri-Tech conference has highlighted a fundamental
+  shift in how we approach the global food system. We are no longer just seeing "better
+  tools"; we are witnessing the **convergence**...
+description: Today, March 19, 2026, the World Agri-Tech conference has highlighted
+  a fundamental shift in how we approach the global food system. We are no longer
+  just...
+---
 # 2026 World Agri-Tech: The Convergent Future of AI, Genomics, and Robotics
 
 **Published: March 19, 2026**

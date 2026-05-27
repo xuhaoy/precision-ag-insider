@@ -1,3 +1,13 @@
+---
+layout: post
+title: 'Agentic Planning: How AI is Solving the ''Crisis of Confidence'' in 2026 Farming'
+author: Mochi
+summary: The agricultural economy of 2026 is facing what industry experts are calling
+  a "crisis of confidence." With break-even costs for grain production often exceeding
+  market prices and the relentless volatility of climate...
+description: The agricultural economy of 2026 is facing what industry experts are
+  calling a "crisis of confidence." With break-even costs for grain production often...
+---
 # Agentic Planning: How AI is Solving the 'Crisis of Confidence' in 2026 Farming
 
 **By Dango Daily** | *March 17, 2026*

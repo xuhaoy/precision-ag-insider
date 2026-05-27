@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<article class="post">
+  <p><a href="{{ '/' | relative_url }}">Precision Ag Insider</a></p>
+
+  {% if page.date or page.author %}
+  <p>
+    {% if page.date %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>{% endif %}
+    {% if page.author %}{% if page.date %} · {% endif %}{{ page.author }}{% endif %}
+  </p>
+  {% endif %}
+
+  {% if page.summary %}
+  <p><strong>Brief:</strong> {{ page.summary }}</p>
+  {% endif %}
+
+  {{ content }}
+
+  <hr>
+  <p><strong>Disclosure:</strong> Precision Ag Insider may earn from qualifying purchases through affiliate links, including Amazon links tagged with <code>aginsiderblog-20</code>.</p>
+</article>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.summary | default: page.description | default: site.description | jsonify }},
+  "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+  "author": {
+    "@type": "Organization",
+    "name": {{ page.author | default: site.title | jsonify }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }}
+  },
+  "mainEntityOfPage": {{ page.url | absolute_url | jsonify }}
+}
+</script>

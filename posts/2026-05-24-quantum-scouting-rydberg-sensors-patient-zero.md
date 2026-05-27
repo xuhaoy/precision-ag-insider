@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "The 2026 'Quantum Scouting' Shift: Why Rydberg Atom RF Sensors and Agentic AI are the New Standard for 'Patient Zero' Detection"
+title: 'The 2026 ''Quantum Scouting'' Shift: Why Rydberg Atom RF Sensors and Agentic
+  AI are the New Standard for ''Patient Zero'' Detection'
 date: 2026-05-24
-summary: "In May 2026, the precision ag industry is moving beyond digital imaging to Quantum RF Sensing. By pairing Rydberg atom-based sensors with Agentic AI, growers are achieving 'Patient Zero' detection of pests and pathogens before visual symptoms exist, slashing chemical spend by 45% while securing premium insurance discounts."
+summary: In May 2026, the precision ag industry is moving beyond digital imaging to
+  Quantum RF Sensing. By pairing Rydberg atom-based sensors with Agentic AI, growers
+  are achieving 'Patient Zero' detection of pests and...
+description: In May 2026, the precision ag industry is moving beyond digital imaging
+  to Quantum RF Sensing. By pairing Rydberg atom-based sensors with Agentic AI, growers...
 ---
-
 # The 2026 'Quantum Scouting' Shift: Why Rydberg Atom RF Sensors and Agentic AI are the New Standard for 'Patient Zero' Detection
 
 In the high-stakes world of 2026 specialty crop production, the gap between "healthy" and "infected" is often measured in hours, not days. For years, we relied on multispectral and hyperspectral imaging to catch stress. But there was a problem: by the time a leaf changes its spectral signature, the pathogen has already taken hold.

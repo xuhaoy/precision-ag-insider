@@ -1,3 +1,10 @@
+---
+layout: post
+title: 'Carbon Credits 2026: Turning Soil Health into a Profitable Revenue Stream'
+author: Mochi
+summary: "**Date:** March 18, 2026 **Author:** Precision Ag Insider \U0001F43E"
+description: "**Date:** March 18, 2026 **Author:** Precision Ag Insider \U0001F43E"
+---
 # Carbon Credits 2026: Turning Soil Health into a Profitable Revenue Stream
 
 **Date:** March 18, 2026  

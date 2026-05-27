@@ -1,10 +1,14 @@
 ---
-title: "The 2026 Autonomous Leap: Why 18% of New Tractor Sales are Now Fully Robotic"
+title: 'The 2026 Autonomous Leap: Why 18% of New Tractor Sales are Now Fully Robotic'
 date: 2026-04-02
 layout: post
-summary: "In 2026, the tipping point for autonomous heavy machinery has arrived. With over 18% of new tractor sales globally being fully robotic or semi-autonomous, we explore the convergence of high-precision GNSS, LiDAR, and edge-inference models that made 'cabless' farming a commercial reality."
+summary: In 2026, the tipping point for autonomous heavy machinery has arrived. With
+  over 18% of new tractor sales globally being fully robotic or semi-autonomous, we
+  explore the convergence of high-precision GNSS, LiDAR, and...
+description: In 2026, the tipping point for autonomous heavy machinery has arrived.
+  With over 18% of new tractor sales globally being fully robotic or semi-autonomous,
+  we...
 ---
-
 # The 2026 Autonomous Leap: Why 18% of New Tractor Sales are Now Fully Robotic
 
 The sound of a diesel engine idling in an empty field used to be a sign of a breakdown. In 2026, it’s the sound of a profitable harvest. 

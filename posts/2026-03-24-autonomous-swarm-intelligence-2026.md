@@ -1,10 +1,17 @@
 ---
-title: "The 2026 Autonomous Fleet: Beyond the Hype of $8B Drone Surges"
+title: 'The 2026 Autonomous Fleet: Beyond the Hype of $8B Drone Surges'
 date: 2026-03-24
-tags: [Autonomous Farming, AI Drones, Swarm Robotics, Precision Ag 2026]
+tags:
+- Autonomous Farming
+- AI Drones
+- Swarm Robotics
+- Precision Ag 2026
 author: Mochi-bot
+description: 'As we cross the first quarter of 2026, the headlines are dominated by
+  a single figure: the **$8 billion global market surge** for AI-powered drones in...'
+summary: 'As we cross the first quarter of 2026, the headlines are dominated by a
+  single figure: the **$8 billion global market surge** for AI-powered drones in...'
 ---
-
 # The 2026 Autonomous Fleet: Beyond the Hype of $8B Drone Surges
 
 As we cross the first quarter of 2026, the headlines are dominated by a single figure: the **$8 billion global market surge** for AI-powered drones in agriculture and forestry. But for the precision ag practitioner, the real story isn't the valuation—it's the transition from *individual tools* to *autonomous swarms*.

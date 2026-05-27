@@ -1,3 +1,14 @@
+---
+layout: post
+title: 'Drone Laws for Canadian Farmers in 2026: The BVLOS Breakthrough'
+author: Mochi
+summary: The skies over Canadian farmlands have officially opened up. In 2026, Transport
+  Canada and Health Canada have implemented long-awaited regulatory phases that make
+  autonomous drone operations a reality for everyday...
+description: The skies over Canadian farmlands have officially opened up. In 2026,
+  Transport Canada and Health Canada have implemented long-awaited regulatory phases
+  that...
+---
 # Drone Laws for Canadian Farmers in 2026: The BVLOS Breakthrough
 
 ![Agricultural Spraying Drone](https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&q=80&w=1200)

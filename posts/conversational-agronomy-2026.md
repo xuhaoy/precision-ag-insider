@@ -1,3 +1,13 @@
+---
+layout: post
+title: 'Conversational Agronomy: AI is Your New Farm Manager in 2026'
+author: Mochi
+summary: In 2026, the era of "dashboard fatigue" has finally ended. For years, precision
+  agriculture promised "big data," but for many, it just meant "big spreadsheets."
+  Farmers were expected to be data scientists,...
+description: In 2026, the era of "dashboard fatigue" has finally ended. For years,
+  precision agriculture promised "big data," but for many, it just meant "big...
+---
 # Conversational Agronomy: AI is Your New Farm Manager in 2026
 
 In 2026, the era of "dashboard fatigue" has finally ended. For years, precision agriculture promised "big data," but for many, it just meant "big spreadsheets." Farmers were expected to be data scientists, meteorologists, and mechanics all at once.

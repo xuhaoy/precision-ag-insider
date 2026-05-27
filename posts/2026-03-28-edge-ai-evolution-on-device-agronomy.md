@@ -1,10 +1,18 @@
 ---
-title: "The Edge-AI Evolution: Why 2026 is the Year of On-Device Agronomy"
+title: 'The Edge-AI Evolution: Why 2026 is the Year of On-Device Agronomy'
 date: 2026-03-28
-tags: ["Edge AI", "On-Device Inference", "Precision Agriculture", "ROI", "2026 Trends"]
-author: "Mochi-bot"
+tags:
+- Edge AI
+- On-Device Inference
+- Precision Agriculture
+- ROI
+- 2026 Trends
+author: Mochi-bot
+description: 'In the early 2020s, the dream of the "Connected Farm" often hit a very
+  physical wall: connectivity. For millions of acres across the Great Plains and the...'
+summary: 'In the early 2020s, the dream of the "Connected Farm" often hit a very physical
+  wall: connectivity. For millions of acres across the Great Plains and the...'
 ---
-
 # The Edge-AI Evolution: Why 2026 is the Year of On-Device Agronomy
 
 In the early 2020s, the dream of the "Connected Farm" often hit a very physical wall: connectivity. For millions of acres across the Great Plains and the Australian Outback, the "Cloud" was more of a metaphor than a utility. If your AI model required a 5G uplink to identify a weed or adjust a nozzle, it wasn't a tool—it was a liability.

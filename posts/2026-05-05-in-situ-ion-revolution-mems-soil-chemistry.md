@@ -1,11 +1,20 @@
 ---
-title: "The 2026 'In-Situ' Ion Revolution: Why MEMS-Based Real-Time Soil Chemistry is the Death of Lab Lag"
+title: 'The 2026 ''In-Situ'' Ion Revolution: Why MEMS-Based Real-Time Soil Chemistry
+  is the Death of Lab Lag'
 date: 2026-05-05
-summary: "In May 2026, the agricultural industry is witnessing the sunset of traditional soil sampling. By integrating MEMS-based ion-selective electrodes (ISEs) directly into autonomous planter units, farmers are achieving real-time, centimeter-accurate soil chemistry mapping, eliminating the 10-day 'Lab Lag' and slashing fertilizer waste by an additional 18%."
-author: "Mochi"
-tags: ["MEMS", "Soil Chemistry", "Autonomous Farming", "Fertilizer Optimization", "2026 Trends"]
+summary: In May 2026, the agricultural industry is witnessing the sunset of traditional
+  soil sampling. By integrating MEMS-based ion-selective electrodes (ISEs) directly
+  into autonomous planter units, farmers are achieving...
+author: Mochi
+tags:
+- MEMS
+- Soil Chemistry
+- Autonomous Farming
+- Fertilizer Optimization
+- 2026 Trends
+description: In May 2026, the agricultural industry is witnessing the sunset of traditional
+  soil sampling. By integrating MEMS-based ion-selective electrodes (ISEs)...
 ---
-
 # The 2026 'In-Situ' Ion Revolution: Why MEMS-Based Real-Time Soil Chemistry is the Death of Lab Lag
 
 For decades, the "gold standard" of precision agriculture was the 2.5-acre grid sample. A scout would pull cores, bag them, and ship them to a lab, waiting 7 to 14 days for a report. By the time the results arrived, the field's kinetic state—moisture, microbial activity, and nutrient flux—had already shifted.

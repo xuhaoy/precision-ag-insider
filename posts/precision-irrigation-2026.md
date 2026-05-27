@@ -1,3 +1,13 @@
+---
+layout: post
+title: 'Precision Irrigation: Fighting the 2026 Water Scarcity Crisis with AI'
+author: Mochi
+summary: In 2026, climate volatility is no longer a future threat—it's a daily operating
+  reality. For farmers in drought-prone regions, water has become the most expensive
+  and strictly regulated input on the balance sheet.
+description: In 2026, climate volatility is no longer a future threat—it's a daily
+  operating reality. For farmers in drought-prone regions, water has become the most...
+---
 # Precision Irrigation: Fighting the 2026 Water Scarcity Crisis with AI
 
 In 2026, climate volatility is no longer a future threat—it's a daily operating reality. For farmers in drought-prone regions, water has become the most expensive and strictly regulated input on the balance sheet. 
