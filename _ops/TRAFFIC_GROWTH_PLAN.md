@@ -8,6 +8,7 @@
 - Homepage SEO metadata was generic: "The AI Farming Revolution".
 - The homepage is a long manual list. It has content depth, but weak topical organization and weak internal navigation.
 - Post quality is consistent in niche, but several titles repeat similar phrases like "2026", "leap", "shift", "new standard", and "agentic AI", which can make the site look synthetic and reduce long-tail keyword coverage.
+- GoatCounter feedback on 2026-05-27 showed visitors were not clicking into posts; the homepage needed clearer paths and stronger visual affordances, not just more SEO metadata.
 
 ## High-Impact Changes Made
 
@@ -17,6 +18,8 @@
 - Added front matter to older posts that were previously not rendered as full Jekyll pages.
 - Updated cron prompts to require valid front matter, build verification, more credible/practical claims, and fallback execution if Gemini is rate-limited.
 - Enabled failure alerts for both scheduled jobs and direct weekly analytics delivery to Jack.
+- Rebuilt the homepage around featured cards, topic paths, practical guides, a latest grid, and a collapsed archive.
+- Added topic hub pages for soil sensors, farm robotics, precision irrigation, ag drones, and farm AI ROI.
 
 ## Next Best Moves
 

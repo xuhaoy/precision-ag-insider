@@ -8,13 +8,21 @@ layout: null
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  {% assign post_pages = site.pages | where_exp: "page", "page.path contains 'posts/'" %}
-  {% for page in post_pages %}
+{%- assign topic_pages = site.pages | where_exp: "page", "page.path contains 'topics/'" %}
+{%- for page in topic_pages %}
+  <url>
+    <loc>{{ page.url | absolute_url }}</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+{%- endfor %}
+{%- assign post_pages = site.pages | where_exp: "page", "page.path contains 'posts/'" %}
+{%- for page in post_pages %}
   <url>
     <loc>{{ page.url | absolute_url }}</loc>
     {% if page.date %}<lastmod>{{ page.date | date_to_xmlschema }}</lastmod>{% endif %}
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  {% endfor %}
+{%- endfor %}
 </urlset>
