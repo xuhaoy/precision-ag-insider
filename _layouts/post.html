@@ -21,22 +21,3 @@ layout: default
   <hr>
   <p><strong>Disclosure:</strong> Precision Ag Insider may earn from qualifying purchases through affiliate links, including Amazon links tagged with <code>aginsiderblog-20</code>.</p>
 </article>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": {{ page.title | jsonify }},
-  "description": {{ page.summary | default: page.description | default: site.description | jsonify }},
-  "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
-  "author": {
-    "@type": "Organization",
-    "name": {{ page.author | default: site.title | jsonify }}
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": {{ site.title | jsonify }}
-  },
-  "mainEntityOfPage": {{ page.url | absolute_url | jsonify }}
-}
-</script>

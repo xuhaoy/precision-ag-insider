@@ -2,9 +2,4 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
-
-gem "jekyll", "~> 4.4"
-gem "jekyll-theme-cayman", "~> 0.2.0"
-gem "jekyll-feed", "~> 0.17.0"
-gem "jekyll-seo-tag", "~> 2.8"
+gem "github-pages", "~> 232", group: :jekyll_plugins

@@ -8,15 +8,16 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ "/" | absolute_url }}</link>
     <atom:link href="{{ "/feed.xml" | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% assign post_pages = site.pages | where_exp: "page", "page.path contains 'posts/'" | sort: "date" | reverse %}
-    {% for page in post_pages limit: 25 %}
+    {% for page in site.pages %}
+    {% if page.path contains 'posts/' %}
     <item>
       <title>{{ page.title | xml_escape }}</title>
-      <description>{{ page.summary | default: page.description | default: page.content | markdownify | strip_html | normalize_whitespace | truncate: 240 | xml_escape }}</description>
+      <description>{{ page.summary | default: page.description | default: site.description | strip_html | strip_newlines | truncate: 240 | xml_escape }}</description>
       <link>{{ page.url | absolute_url }}</link>
       <guid>{{ page.url | absolute_url }}</guid>
       {% if page.date %}<pubDate>{{ page.date | date_to_rfc822 }}</pubDate>{% endif %}
     </item>
+    {% endif %}
     {% endfor %}
   </channel>
 </rss>
