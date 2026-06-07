@@ -80,6 +80,11 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
 
 <section class="latest-grid">
   <article>
+    <time>June 7, 2026</time>
+    <h3><a href="/precision-ag-insider/posts/2026-06-07-irrigation-scheduling-edge-ai-roi.html">Edge AI Irrigation Scheduling ROI</a></h3>
+    <p>Where local irrigation intelligence actually pays back: pump hours, stress avoidance, and trusted sensor inputs.</p>
+  </article>
+  <article>
     <time>May 24, 2026</time>
     <h3><a href="/precision-ag-insider/posts/2026-05-24-quantum-scouting-rydberg-sensors-patient-zero.html">Quantum Scouting and Patient-Zero Detection</a></h3>
     <p>Rydberg RF sensors, autonomous scouting, and what early disease detection could mean for chemical spend.</p>
@@ -104,16 +109,12 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
     <h3><a href="/precision-ag-insider/posts/2026-05-20-hyperspectral-to-edge-nitrogen-roi.html">Hyperspectral Nitrogen ROI</a></h3>
     <p>Fusing satellite imagery and edge compute for tighter fertilizer decisions.</p>
   </article>
-  <article>
-    <time>May 12, 2026</time>
-    <h3><a href="/precision-ag-insider/posts/2026-05-12-sentient-bio-reactor-on-farm-biologicals.html">On-Farm Biological Production</a></h3>
-    <p>Real-time fermentation analytics and the economics of producing inputs on site.</p>
-  </article>
 </section>
 
 <details class="archive">
   <summary>Browse the full archive</summary>
   <ul>
+    <li><a href="/precision-ag-insider/posts/2026-05-12-sentient-bio-reactor-on-farm-biologicals.html">On-Farm Biological Production</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-11-swarm-to-spray-ulv-robotics-agentic-ai.html">Swarm-to-Spray ULV Robotics</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-10-carbon-verification-livestock-methane.html">Livestock Methane Verification</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-09-kinetic-canopy-stomatal-conductance.html">Kinetic Canopy Modeling</a></li>

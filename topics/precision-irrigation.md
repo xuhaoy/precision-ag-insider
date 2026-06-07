@@ -8,6 +8,7 @@ description: AI irrigation, hydraulic digital twins, drainage systems, sap-flow 
 
 Water coverage for growers evaluating sensors, control loops, drainage automation, and drought-resilience tools.
 
+- [Edge AI Irrigation Scheduling ROI](/precision-ag-insider/posts/2026-06-07-irrigation-scheduling-edge-ai-roi.html)
 - [Precision Irrigation in 2026](/precision-ag-insider/posts/precision-irrigation-2026.html)
 - [Sentient Irrigation and Hydraulic Digital Twins](/precision-ag-insider/posts/2026-04-22-sentient-irrigation-hydraulic-digital-twins.html)
 - [Hydraulic Intelligence](/precision-ag-insider/posts/2026-05-06-hydraulic-intelligence-autonomous-irrigation.html)
