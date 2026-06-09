@@ -80,6 +80,11 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
 
 <section class="latest-grid">
   <article>
+    <time>June 9, 2026</time>
+    <h3><a href="/precision-ag-insider/posts/2026-06-09-retrofit-autonomy-kits-roi.html">Retrofit Autonomy Kit ROI</a></h3>
+    <p>How smarter guidance, sensing, and task control can improve existing equipment without forcing a full fleet replacement.</p>
+  </article>
+  <article>
     <time>June 8, 2026</time>
     <h3><a href="/precision-ag-insider/posts/2026-06-08-ai-spot-spraying-drone-roi.html">AI Spot Spraying Drone ROI</a></h3>
     <p>When drone-first weed control pays back through selective herbicide use, faster patch treatment, and practical labor leverage.</p>
@@ -104,16 +109,12 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
     <h3><a href="/precision-ag-insider/posts/2026-05-22-sentient-drainage-ai-managed-tile-systems.html">AI-Managed Tile Drainage</a></h3>
     <p>Automated drainage gates, salinity sensing, and nutrient-loss reduction.</p>
   </article>
-  <article>
-    <time>May 21, 2026</time>
-    <h3><a href="/precision-ag-insider/posts/2026-05-21-kinetic-harvest-bio-mimetic-tactile-sensors.html">Tactile Sensors for Specialty Crops</a></h3>
-    <p>Why delicate crop robotics depends on touch, not just computer vision.</p>
-  </article>
 </section>
 
 <details class="archive">
   <summary>Browse the full archive</summary>
   <ul>
+    <li><a href="/precision-ag-insider/posts/2026-05-21-kinetic-harvest-bio-mimetic-tactile-sensors.html">Tactile Sensors for Specialty Crops</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-20-hyperspectral-to-edge-nitrogen-roi.html">Hyperspectral Nitrogen ROI</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-12-sentient-bio-reactor-on-farm-biologicals.html">On-Farm Biological Production</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-11-swarm-to-spray-ulv-robotics-agentic-ai.html">Swarm-to-Spray ULV Robotics</a></li>
