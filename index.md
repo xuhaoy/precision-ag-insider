@@ -80,6 +80,11 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
 
 <section class="latest-grid">
   <article>
+    <time>June 10, 2026</time>
+    <h3><a href="/precision-ag-insider/posts/2026-06-10-variable-rate-nitrogen-ionic-sensors.html">In-Situ Nitrogen Sensing ROI</a></h3>
+    <p>Moving from satellite pixels to real-time ionic flux sensors. Why 2026 is the year we stop guessing and start measuring nitrogen in the root zone.</p>
+  </article>
+  <article>
     <time>June 9, 2026</time>
     <h3><a href="/precision-ag-insider/posts/2026-06-09-retrofit-autonomy-kits-roi.html">Retrofit Autonomy Kit ROI</a></h3>
     <p>How smarter guidance, sensing, and task control can improve existing equipment without forcing a full fleet replacement.</p>
@@ -104,16 +109,12 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
     <h3><a href="/precision-ag-insider/posts/2026-05-23-leo-leap-satellite-edge-latency.html">Satellite-to-Edge Agronomy</a></h3>
     <p>How LEO backhaul and on-machine inference shrink the gap between observation and action.</p>
   </article>
-  <article>
-    <time>May 22, 2026</time>
-    <h3><a href="/precision-ag-insider/posts/2026-05-22-sentient-drainage-ai-managed-tile-systems.html">AI-Managed Tile Drainage</a></h3>
-    <p>Automated drainage gates, salinity sensing, and nutrient-loss reduction.</p>
-  </article>
 </section>
 
 <details class="archive">
   <summary>Browse the full archive</summary>
   <ul>
+    <li><a href="/precision-ag-insider/posts/2026-05-22-sentient-drainage-ai-managed-tile-systems.html">AI-Managed Tile Drainage</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-21-kinetic-harvest-bio-mimetic-tactile-sensors.html">Tactile Sensors for Specialty Crops</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-20-hyperspectral-to-edge-nitrogen-roi.html">Hyperspectral Nitrogen ROI</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-12-sentient-bio-reactor-on-farm-biologicals.html">On-Farm Biological Production</a></li>
