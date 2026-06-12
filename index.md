@@ -80,6 +80,11 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
 
 <section class="latest-grid">
   <article>
+    <time>June 12, 2026</time>
+    <h3><a href="/precision-ag-insider/posts/2026-06-12-edge-ai-scouting-field-vision-roi.html">Edge AI Scouting ROI</a></h3>
+    <p>Why on-machine field vision matters when connectivity is patchy, scouting windows are short, and the time from detection to action determines whether a problem stays cheap.</p>
+  </article>
+  <article>
     <time>June 10, 2026</time>
     <h3><a href="/precision-ag-insider/posts/2026-06-10-variable-rate-nitrogen-ionic-sensors.html">In-Situ Nitrogen Sensing ROI</a></h3>
     <p>Moving from satellite pixels to real-time ionic flux sensors. Why 2026 is the year we stop guessing and start measuring nitrogen in the root zone.</p>
@@ -114,6 +119,7 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
 <details class="archive">
   <summary>Browse the full archive</summary>
   <ul>
+    <li><a href="/precision-ag-insider/posts/2026-06-12-edge-ai-scouting-field-vision-roi.html">Edge AI Scouting ROI</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-22-sentient-drainage-ai-managed-tile-systems.html">AI-Managed Tile Drainage</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-21-kinetic-harvest-bio-mimetic-tactile-sensors.html">Tactile Sensors for Specialty Crops</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-20-hyperspectral-to-edge-nitrogen-roi.html">Hyperspectral Nitrogen ROI</a></li>
