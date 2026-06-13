@@ -80,6 +80,11 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
 
 <section class="latest-grid">
   <article>
+    <time>June 13, 2026</time>
+    <h3><a href="/precision-ag-insider/posts/2026-06-13-offline-first-farm-ai-field-connectivity-roi.html">Offline-First Farm AI ROI</a></h3>
+    <p>Why field systems that keep working without signal often beat cloud-first tools when the real cost is lost time, duplicate work, or missed actions.</p>
+  </article>
+  <article>
     <time>June 12, 2026</time>
     <h3><a href="/precision-ag-insider/posts/2026-06-12-edge-ai-scouting-field-vision-roi.html">Edge AI Scouting ROI</a></h3>
     <p>Why on-machine field vision matters when connectivity is patchy, scouting windows are short, and the time from detection to action determines whether a problem stays cheap.</p>
@@ -119,6 +124,7 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
 <details class="archive">
   <summary>Browse the full archive</summary>
   <ul>
+    <li><a href="/precision-ag-insider/posts/2026-06-13-offline-first-farm-ai-field-connectivity-roi.html">Offline-First Farm AI ROI</a></li>
     <li><a href="/precision-ag-insider/posts/2026-06-12-edge-ai-scouting-field-vision-roi.html">Edge AI Scouting ROI</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-22-sentient-drainage-ai-managed-tile-systems.html">AI-Managed Tile Drainage</a></li>
     <li><a href="/precision-ag-insider/posts/2026-05-21-kinetic-harvest-bio-mimetic-tactile-sensors.html">Tactile Sensors for Specialty Crops</a></li>
