@@ -80,6 +80,11 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
 
 <section class="latest-grid">
   <article>
+    <time>June 22, 2026</time>
+    <h3><a href="/precision-ag-insider/posts/2026-06-22-farm-ai-procurement-checklist.html">Farm AI Procurement Checklist</a></h3>
+    <p>A buyer-focused guide to field AI hardware, positioning, offline sync, and the questions that separate practical tools from expensive demos.</p>
+  </article>
+  <article>
     <time>June 15, 2026</time>
     <h3><a href="/precision-ag-insider/posts/2026-06-15-field-ai-starter-stack-roi.html">The 2026 Field AI Starter Stack</a></h3>
     <p>What to buy first if you want usable farm AI: rugged capture, better positioning, local buffering, and the workflows that hold up in the field.</p>
@@ -129,6 +134,7 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
 <details class="archive">
   <summary>Browse the full archive</summary>
   <ul>
+  <li><a href="/precision-ag-insider/posts/2026-06-22-farm-ai-procurement-checklist.html">Farm AI Procurement Checklist</a></li>
   <li><a href="/precision-ag-insider/posts/2026-06-13-offline-first-farm-ai-field-connectivity-roi.html">Offline-First Farm AI ROI</a></li>
   <li><a href="/precision-ag-insider/posts/2026-06-15-field-ai-starter-stack-roi.html">The 2026 Field AI Starter Stack</a></li>
   <li><a href="/precision-ag-insider/posts/2026-06-12-edge-ai-scouting-field-vision-roi.html">Edge AI Scouting ROI</a></li>
