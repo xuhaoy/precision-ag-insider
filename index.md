@@ -80,6 +80,11 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
 
 <section class="latest-grid">
   <article>
+    <time>June 23, 2026</time>
+    <h3><a href="/precision-ag-insider/posts/2026-06-23-farm-ai-integration-tax-roi.html">Farm AI's Hidden Integration Tax</a></h3>
+    <p>The real cost of precision ag AI is the work between tools: setup, cleanup, sync, and support.</p>
+  </article>
+  <article>
     <time>June 22, 2026</time>
     <h3><a href="/precision-ag-insider/posts/2026-06-22-farm-ai-procurement-checklist.html">Farm AI Procurement Checklist</a></h3>
     <p>A buyer-focused guide to field AI hardware, positioning, offline sync, and the questions that separate practical tools from expensive demos.</p>
@@ -134,6 +139,7 @@ description: Practical AI farming, precision agriculture, farm robotics, sensors
 <details class="archive">
   <summary>Browse the full archive</summary>
   <ul>
+  <li><a href="/precision-ag-insider/posts/2026-06-23-farm-ai-integration-tax-roi.html">Farm AI's Hidden Integration Tax</a></li>
   <li><a href="/precision-ag-insider/posts/2026-06-22-farm-ai-procurement-checklist.html">Farm AI Procurement Checklist</a></li>
   <li><a href="/precision-ag-insider/posts/2026-06-13-offline-first-farm-ai-field-connectivity-roi.html">Offline-First Farm AI ROI</a></li>
   <li><a href="/precision-ag-insider/posts/2026-06-15-field-ai-starter-stack-roi.html">The 2026 Field AI Starter Stack</a></li>
