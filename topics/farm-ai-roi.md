@@ -8,6 +8,7 @@ description: Farm AI return on investment, automation economics, risk, insurance
 
 Use this path for the financial side of precision ag: payback, risk reduction, labor resilience, and adoption timing.
 
+- [The Field Data Capture Stack That Pays Back](/precision-ag-insider/posts/2026-06-25-field-data-capture-stack-roi.html)
 - [Farm AI's Hidden Integration Tax](/precision-ag-insider/posts/2026-06-23-farm-ai-integration-tax-roi.html)
 - [Farm AI Procurement Checklist](/precision-ag-insider/posts/2026-06-22-farm-ai-procurement-checklist.html)
 - [The 2026 Field AI Starter Stack](/precision-ag-insider/posts/2026-06-15-field-ai-starter-stack-roi.html)
